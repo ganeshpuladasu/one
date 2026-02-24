@@ -829,8 +829,8 @@
             <h1>winter Collection 2023</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Shop Now</a>
-                <a href="#" class="btn btn-secondary">Explore Deals</a>
+                <a href="#" class="btn btn-primary">Shop-Now</a>
+                <a href="#" class="btn btn-secondary">Explore-Deals</a>
             </div>
         </div>
     </section>
@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 14 Pro Max</h3>
-                    <div class="price">$1,099 <span class="old-price">$1,199</span></div>
+                    <div class="price">Rs1,099 <span class="old-price">Rs1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
-                    <div class="price">$1,999</div>
+                    <div class="price">Rs1,999</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -908,7 +908,7 @@
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
                     <h3>Apple Watch Series 8</h3>
-                    <div class="price">$349 <span class="old-price">$399</span></div>
+                    <div class="price">Rs349 <span class="old-price">Rs399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -917,7 +917,7 @@
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
                     <h3>Nike Air Max 270</h3>
-                    <div class="price">$150</div>
+                    <div class="price">Rs150</div>
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -926,7 +926,7 @@
                 <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Camera" class="product-img">
                 <div class="product-info">
                     <h3>Sony A7 IV Camera</h3>
-                    <div class="price">$2,499</div>
+                    <div class="price">Rs2,499</div>
                     <div class="rating">★★★★★ <span>(42)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -936,7 +936,7 @@
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
                     <h3>Chanel No. 5</h3>
-                    <div class="price">$120</div>
+                    <div class="price">Rs120</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -945,7 +945,7 @@
                 <img src="https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Backpack" class="product-img">
                 <div class="product-info">
                     <h3>Travel Backpack</h3>
-                    <div class="price">$79 <span class="old-price">$99</span></div>
+                    <div class="price">Rs79 <span class="old-price">Rs99</span></div>
                     <div class="rating">★★★★☆ <span>(67)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -954,7 +954,7 @@
                 <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headphones" class="product-img">
                 <div class="product-info">
                     <h3>Sony WH-1000XM5</h3>
-                    <div class="price">$399</div>
+                    <div class="price">Rs399</div>
                     <div class="rating">★★★★★ <span>(156)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -991,7 +991,7 @@
                         </div>
                     </div>
                     
-                    <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
+                    <div class="deal-price">Rs999 <span class="deal-old-price">Rs1,199</span> <span class="deal-discount">-17%</span></div>
                     
                     <p>Only <strong>12</strong> items left at this price!</p>
                     
